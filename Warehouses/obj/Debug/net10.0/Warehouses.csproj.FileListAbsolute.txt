@@ -1,0 +1,14 @@
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\bin\Debug\net10.0\Warehouses.exe
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\bin\Debug\net10.0\Warehouses.deps.json
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\bin\Debug\net10.0\Warehouses.runtimeconfig.json
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\bin\Debug\net10.0\Warehouses.dll
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\bin\Debug\net10.0\Warehouses.pdb
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\Warehouses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\Warehouses.AssemblyInfoInputs.cache
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\Warehouses.AssemblyInfo.cs
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\Warehouses.csproj.CoreCompileInputs.cache
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\Warehouses.dll
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\refint\Warehouses.dll
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\Warehouses.pdb
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\Warehouses.genruntimeconfig.cache
+C:\Users\fijoy\RiderProjects\Warehouses\Warehouses\obj\Debug\net10.0\ref\Warehouses.dll
